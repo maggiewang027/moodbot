@@ -52,6 +52,8 @@ chatbot.ipynb | This includes functions used to build the chat application and t
 
 chatbot.py | This includes functions used to build the chatbot.
 
+tkHyperlinkManager.py | Borrowed from https://github.com/GregDMeyer/PWman/blob/master/tkHyperlinkManager.py to achieve a purpose that clicking the name of the music can open and listen to the music in the browser.
+
 app.py | This is the final GUI to run the chat system.
 
 ## Folder evaluation
