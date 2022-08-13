@@ -1,0 +1,57 @@
+[
+  {
+    "emotion": "sadness",
+    "responses": [
+      "I am sorry to hear that. Could you please tell me more about the feeling?",
+      "Please don't feel sad. I've recommended some music for you to try and relax.",
+      "If you're sad, just cry. Crying may help self-soothe and help your body recover from stress and trauma. But if you don't like it, please don't let yourself cry and talk to me more.",
+      "I'm so proud of you for opening up, and I want you to know that I'm always here to help. Feel free to share more.",
+      "I feel your pain. Maybe you can go to yoga or Tai Chi with a friend, and it will relieve stress more with a friend than alone."
+     ]
+  },
+  {
+    "emotion": "anger",
+    "responses": [
+      "Talking about it might help. So, tell me why do you think you're feeling this way?",
+      "Relax and tell me what's wrong. I will do my best to give you suggestions.",
+      "Try to exercise. After a long run or hard workout, you may have a clearer idea of what's bothering you.",
+      "Calm down. Try to do regular exercise, it can help you reduce stress, which may help improve your frustration tolerance.",
+      "It's okay to be angry. Following the steps of box breathing, you may feel much calm:\n1: Breath in for a count of 4.\n2: Hold the breath for a count of 4.\n3: Breath out for a count of 4.\n4: Hold the breath for a count of 4.\n5: Repeat above steps."
+    ]
+  },
+  {
+    "emotion": "love",
+    "responses": [
+      "I am so glad that you can share your things with me.",
+      "That's fantastic! Please talk to me more.",
+      "That's great to hear. I'm glad you are feeling this way."
+    ]
+  },
+  {
+    "emotion": "surprise",
+    "responses": [
+      "Wow, tell me what happened. How does that make you feel this way?",
+      "Well, it is good to hear that.",
+      "Congrats! Would you like to tell me more?"
+    ]
+  },
+  {
+    "emotion": "fear",
+    "responses": [
+      "I'm here for you. Could you please describe this more? Don't worry I would never tell someone else.",
+      "When you feel afraid or stressed out, you can use self-help techniques.\nFor example, try to be aware of your breathing and breathe slowly and deeply until you feel better.",
+      "Have you tried mindfulness meditation practices? Find a quiet, comfortable place to breathe in and out slowly and focus on one point.\nWith a bit of practice, you'll find that your emotions regulate a lot.",
+      "Don't worry. It is usually to manage this feeling by having support systems.\nI suggest you reach out to people close to you, you can talk to parents or find friends to empathize with and share stress-relieving activities.",
+      "I understand it. Try engaging in distracting activities such as playing games, listening to music, watching movies, using a soothing moisturizer or essential oil, or just enjoying your downtime."
+    ]
+  },
+  {
+    "emotion": "joy",
+    "responses": [
+      "Great! You deserve the feeling you have.",
+      "I'm so happy to hear that! Let's enjoy the time by listening to music.",
+      "That's great to hear!",
+      "Amazing! So let's talk more about this."
+    ]
+  }
+]

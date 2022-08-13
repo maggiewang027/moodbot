@@ -1,0 +1,8 @@
+sklearn
+nltk
+tensorflow
+keras
+Keras-Preprocessing
+keras.utils
+numpy
+pandas
